@@ -1,9 +1,9 @@
 {
   "audios":{
-    "p0" : "audios/ciudad.mp3",
-    "p1" : "audios/desert.mp3",
-    "p2" : "audios/jungle.mp3",
-    "p3" : "audios/woods.mp3"
+    "p0" : "ciudad.mp3",
+    "p1" : "desierto.mp3",
+    "p2" : "jungla.mp3",
+    "p3" : "helados.mp3"
   },
   "colores":{
     "p0" : "rgba(255, 100, 200, 0.75)",
